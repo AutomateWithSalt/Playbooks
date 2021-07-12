@@ -1,6 +1,6 @@
 # SaltStack Guide to Developing Automation
 
-## ****Running basic commands against minions****
+## Running basic commands against minions
 ```
 salt                     # Invokes salt
 '*'                      # Defines which minions to execute on
